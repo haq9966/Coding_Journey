@@ -1,7 +1,7 @@
-#Given a array of N strings, find the longest common prefix among all strings present in the array.#
+# Given a array of N strings, find the longest common prefix among all strings present in the array.
 
 
-##Example 1:##
+## Example 1:##
 
 
 [^bignote]:
@@ -14,7 +14,7 @@ Explanation: "gee" is the longest common
 prefix in all the given strings.
 
 
-##Example 2:##
+## Example 2:
 
 
 Input: 
